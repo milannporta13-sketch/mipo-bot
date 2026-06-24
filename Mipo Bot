@@ -1,0 +1,18 @@
+<body>
+
+<h1>Mipo Bot</h1>
+
+<a href="https://discord.com/login"
+   style="
+   background:#5865F2;
+   color:white;
+   padding:15px 25px;
+   border-radius:10px;
+   text-decoration:none;
+   font-family:Arial;
+   font-weight:bold;
+   display:inline-block;">
+   🔵 Se connecter avec Discord
+</a>
+
+</body> 
